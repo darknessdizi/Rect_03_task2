@@ -1,6 +1,10 @@
 Список предложений
 ===
 
+[![Build status](https://ci.appveyor.com/api/projects/status/cm1uk82w5n7i5u52?svg=true)](https://ci.appveyor.com/project/darknessdizi/rect-03-task2)
+
+*Ссылка на страницу:* https://darknessdizi.github.io/Rect_03_task2/
+
 Необходимо вывести список предложений каталога Etsy.com, используя библиотеку React. После загрузки данных и отрисовки список должен выглядеть так:
 ![Список предложений](./assets/preview.png)
 
